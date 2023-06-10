@@ -34,7 +34,7 @@ export const projectData = [
       },
   ];
 
-  export type Content = {
+  export type ContentProject = {
     title: string;
     items: {
       title: string;
@@ -45,4 +45,4 @@ export const projectData = [
     }[];
   };
 
-  export type ContentProject = Content[];
+  export type ContentProjects = ContentProject[];

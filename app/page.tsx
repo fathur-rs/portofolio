@@ -6,6 +6,7 @@ import { projectData } from "@/data/project";
 import type { ContentProject } from "@/data/project";
 
 type ContentProps = Content;
+type ContentProjects = ContentProject;
 
 const Content: React.FC<ContentProps> = ({ title, items }) => {
   return (
@@ -38,7 +39,7 @@ const Content: React.FC<ContentProps> = ({ title, items }) => {
   );
 };
 
-const ContentProject: React.FC<ContentProps> = ({ title, items }) => {
+const ContentProject: React.FC<ContentProjects> = ({ title, items }) => {
   return (
     <section className="my-14 text-sm">
       <h3 className="mb-6">{title}</h3>
