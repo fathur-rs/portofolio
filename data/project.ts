@@ -21,7 +21,7 @@ export const projectData = [
             subTitle: "Web App",
             date: "2022",
             description: "ML-powered behavioral analysis web application. Real-time calculating Twitter account sentiment analysis using ensemble machine learning algorithm achieving 95% accuracy.",
-            url: "https://github.com/fathur-rs/Tweetoxicity",
+            url: "http://bit.ly/tweetoxicity-v2",
           },
           {
             title: "Trxnslate — Handwritten Prescription Recognition",
