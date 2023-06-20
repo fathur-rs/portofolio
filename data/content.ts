@@ -21,7 +21,7 @@ export const contentData = [
     items: [
       {
         title: "Bachelor's Degree in Data Science Technology",
-        subTitle: "University Airlangga",
+        subTitle: "Universitas Airlangga",
         date: "2020 - Present",
         description: "Faculty of Advanced Technology and Multidisciplin (FTMM).",
       },
