@@ -22,7 +22,7 @@ export const projectData = [
             date: "2022",
             description: "ML-powered behavioral analysis web application. Real-time calculating Twitter account sentiment analysis using Fine-Tuned Indonesian Tweets Sentiment Classification Transformer Model achieving 95% accuracy.",
             url: "https://tweetoxicity-streamlit-uv7qigoz4a-et.a.run.app",
-          }
+          },
           {
             title: "Trxnslate — Handwritten Prescription Recognition",
             subTitle: "Web App",
