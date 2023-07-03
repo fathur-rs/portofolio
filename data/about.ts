@@ -1,4 +1,4 @@
-export const generalData = {
+export const aboutData = {
   name: "Fathurrahman Syarief",
   avatar: "https://github.com/fathur-rs.png",
   jobTitle: "Data Scientist",

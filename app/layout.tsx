@@ -2,27 +2,27 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 import { ServerThemeProvider } from "next-themes";
 import Providers from "./providers";
-import { generalData } from "@/data/general";
+import { aboutData } from "@/data/about";
 import type { Metadata } from "next";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `${generalData.name} - ${generalData.jobTitle}`,
-  description: generalData.about,
+  title: `${aboutData.name} - ${aboutData.jobTitle}`,
+  description: aboutData.about,
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "",
-    siteName: `${generalData.name} - ${generalData.jobTitle}`,
-    title: `${generalData.name} - ${generalData.jobTitle}`,
-    description: generalData.about,
+    siteName: `${aboutData.name} - ${aboutData.jobTitle}`,
+    title: `${aboutData.name} - ${aboutData.jobTitle}`,
+    description: aboutData.about,
     images: [
       {
         url: "",
         width: 1200,
         height: 630,
-        alt: `${generalData.name} - ${generalData.jobTitle}`,
+        alt: `${aboutData.name} - ${aboutData.jobTitle}`,
       },
     ],
   },
