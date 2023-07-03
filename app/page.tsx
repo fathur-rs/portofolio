@@ -24,7 +24,7 @@ const ContentSkill: React.FC<ContentSkills> = ({ title, items }) => {
 
           {items.map((item, index) => {
             return (
-              <p className="border border-slate-600 px-6 py-2 text-slate-300 hover:text-slate-100 hover:border-slate-300 rounded-lg duration-300">
+              <p key='index' className="border border-slate-600 px-6 py-2 text-slate-300 hover:text-slate-100 hover:border-slate-300 rounded-lg duration-300">
                 {item.skill}
               </p>
             );
