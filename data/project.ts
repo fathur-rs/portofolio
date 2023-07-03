@@ -20,14 +20,14 @@ export const projectData = [
             title: "Tweetoxicity — Sentiment Analysis",
             subTitle: "Web App",
             date: "2022",
-            description: "ML-powered behavioral analysis web application. Real-time calculating Twitter account sentiment analysis using ensemble machine learning algorithm achieving 95% accuracy.",
+            description: "ML-powered behavioral analysis web application. Real-time calculating Twitter account sentiment analysis using Fine-Tuned Indonesian Tweets Sentiment Classification Transformer Model achieving 95% accuracy.",
             url: "https://tweetoxicity-streamlit-uv7qigoz4a-et.a.run.app",
-          },
+          }
           {
             title: "Trxnslate — Handwritten Prescription Recognition",
             subTitle: "Web App",
             date: "2023",
-            description: "Utilizes CNN VGG 16 Transfer Learning Model achieving 98% accuracy, The web app allows users to upload prescription images, generating digital text output within seconds. The project incorporates Kubeflow for MLops pipeline and deployed on GCP.",
+            description: "Utilizes Fine-Tuned Vision Transformer Architecture achieving 98% accuracy, The web app allows users to upload prescription images, generating digital text output within seconds. The project incorporates Kubeflow for MLops pipeline and deployed on GCP.",
             url: "https://trxnslate-streamlit-uv7qigoz4a-et.a.run.app",
           },
         ],
