@@ -28,7 +28,7 @@ export const projectData = [
             subTitle: "Web App",
             date: "2023",
             description: "Utilizes Fine-Tuned Vision Transformer Architecture achieving 98% accuracy, The web app allows users to upload prescription images, generating digital text output within seconds. The project incorporates Kubeflow for MLops pipeline and deployed on GCP.",
-            url: "https://trxnslate-streamlit-uv7qigoz4a-et.a.run.app",
+            url: "https://github.com/fathur-rs/tweetoxicity-v2",
           },
         ],
       },
