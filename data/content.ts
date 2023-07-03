@@ -12,7 +12,7 @@ export const contentData = [
         title: "Intern Text Processing Engineer at Central AI",
         subTitle: "Remote",
         date: "Aug - Dec 2022",
-        description: "Building Indonesia News Sentiment Analyzer Model achieving 85% accuracy and deploying it with Flask API. Building Facebook Scrapper and Facebook Caption Sentiment Analyzer Model achieving 94% accuracy and deploying it with Flask API.",
+        description: "• Building Indonesia News Sentiment Analyzer Model achieving 85% accuracy and deploying it with Flask API. Building Facebook Scrapper and Facebook Caption Sentiment Analyzer Model achieving 94% accuracy and deploying it with Flask API.",
       },
     ],
   },
