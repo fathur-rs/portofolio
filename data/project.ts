@@ -1,6 +1,6 @@
 export const projectData = [
       {
-        title: "My Projects",
+        title: "Projects",
         items: [
           {
             title: "Banking Marketing Targets",
