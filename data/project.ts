@@ -6,7 +6,7 @@ export const projectData = [
             title: "Banking Marketing Targets",
             subTitle: "Data Analytics",
             date: "2020",
-            description: "End-to-End Data Analysis. Pulling data with pySpark. Exploratory Data Analysis (EDA), Data Visualization, implementing various machine learning algorithms achieving 90% average accuracy, and model evaluation.",
+            description: "Conducted end-to-end data analysis on banking marketing targets, highlighting insights for strategic decisions. Leveraged PySpark to pull data, enhancing the efficiency and scalability of data handling. Performed exploratory data analysis and data visualization, providing intuitive understanding of underlying patterns and trends. Implemented various machine learning algorithms, achieving an average accuracy of 90%, showcasing high performance and precision in model building. Evaluated models to ensure their effectiveness and reliability, optimizing for the best performing model for predictive tasks.",
             url: "https://www.kaggle.com/code/fathurrs/banking-dataset-marketing-targets",
           },
           {
