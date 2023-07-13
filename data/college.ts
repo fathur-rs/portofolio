@@ -3,18 +3,18 @@ export const collegeData = [
     title: "Education",
     items: [
       {
-        title: "Bachelor's Degree in Data Science Technology",
-        subTitle: "Universitas Airlangga",
-        date: "2020 - Present",
-        description:
-          "Faculty of Advanced Technology and Multidisciplin (FTMM)",
-      },
-      {
         title: "SMA Negeri 34 Jakarta",
         subTitle: "State School",
         date: "2017 - 2020",
         description:
           "Science Program",
+      },
+      {
+        title: "Bachelor's Degree in Data Science Technology",
+        subTitle: "Universitas Airlangga",
+        date: "2020 - Present",
+        description:
+          "Faculty of Advanced Technology and Multidisciplin (FTMM)",
       },
     ],
   },
