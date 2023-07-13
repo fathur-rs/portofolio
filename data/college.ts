@@ -9,6 +9,13 @@ export const collegeData = [
         description:
           "Faculty of Advanced Technology and Multidisciplin (FTMM)",
       },
+      {
+        title: "SMA Negeri 34 Jakarta",
+        subTitle: "State School",
+        date: "2017 - 2020",
+        description:
+          "Science Program",
+      },
     ],
   },
   {
