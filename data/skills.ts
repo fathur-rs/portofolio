@@ -6,7 +6,7 @@ export const skillData = [
         skill: "Python",
       },
       {
-        skill: "R",\
+        skill: "R",
       },
       {
         skill: "Git/Github",
@@ -28,6 +28,9 @@ export const skillData = [
       },
       {
         skill: "A/B Testing",
+      },
+      {
+        skill: "Inferential Statistics",
       },
       {
         skill: "Kubeflow",
