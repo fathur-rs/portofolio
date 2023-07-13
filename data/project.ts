@@ -28,7 +28,7 @@ export const projectData = [
             subTitle: "Web App",
             date: "2023",
             description: "Built Trxnslate, a prescription recognition web app. Utilized Fine-Tuned Vision Transformer, achieving 98% accuracy. Enabled swift digital conversion of uploaded prescription images. Integrated Kubeflow for MLops pipeline. Deployed on GCP for cloud-based operation.",
-            url: "https://trxnslate-streamlit-uv7qigoz4a-et.a.run.app/",
+            url: "https://github.com/fathur-rs/trxnslate",
           },
         ],
       },
