@@ -15,7 +15,7 @@ export const skillData = [
         skill: "MySQL",
       },
       {
-        skill: "Data Minig",
+        skill: "Data Mining",
       },
       {
         skill: "Machine Learning",
@@ -40,9 +40,6 @@ export const skillData = [
       },
       {
         skill: "Docker",
-      },
-      {
-        skill: "Kubernetes",
       },
       {
         skill: "Google Cloud Platform",
