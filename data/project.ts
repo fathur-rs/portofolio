@@ -30,6 +30,13 @@ export const projectData = [
             description: "Built Trxnslate, a prescription recognition web app. Utilized Fine-Tuned Vision Transformer, achieving 98% accuracy. Enabled swift digital conversion of uploaded prescription images. Integrated Kubeflow for MLops pipeline. Deployed on GCP for cloud-based operation.",
             url: "https://trxnslate-streamlit-snqvw2zpga-uc.a.run.app/",
           },
+          {
+            title: "nitter-harvest — Simple Twitter Scrapper",
+            subTitle: "Modules",
+            date: "2023",
+            description: "Fast runtime Twitter data scraper includes: user, topic, and hashtag scraper. No login/authentication is required; simply query what you need, and the program will return the output. Built with the Selenium and bs4 libraries.",
+            url: "https://github.com/fathur-rs/nitter-harvest",
+          },
         ],
       },
   ];
