@@ -31,7 +31,7 @@ export const projectData = [
             url: "https://trxnslate-streamlit-snqvw2zpga-uc.a.run.app/",
           },
           {
-            title: "nitter-harvest — Simple Twitter Scrapper",
+            title: "nitter-harvest — Twitter Scrapper Modules",
             subTitle: "Modules",
             date: "2023",
             description: "Fast runtime Twitter data scraper includes: user, topic, and hashtag scraper. No login/authentication is required; simply query what you need, and the program will return the output. Built with the Selenium and bs4 libraries.",
