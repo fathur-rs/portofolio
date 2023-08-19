@@ -20,6 +20,12 @@ export const experienceData = [
         date: "Aug - Dec 2022",
         description: "Developed an 85% accurate Indonesia News Sentiment Analyzer Model, deployed via RESTful API for the Central Notula product. Created a 94% accurate Caption Sentiment Analyzer & Developed Facebook Scrapper, also deployed via RESTful API. Seamless integration of sentiment analysis models for efficient data processing and real-time insights. Easy accessibility and integration of models through RESTful APIs for scalable deployment.",
       },
+      {
+        title: "Bangkit Academy Cohort",
+        subTitle: "Led by Google, Tokopedia, Gojek, & Traveloka",
+        date: "August 2023 - Present",
+        description: "Cloud Computing Learning Path",
+      },
     ],
   },
 ];
