@@ -21,7 +21,7 @@ export const projectData = [
             subTitle: "Web App",
             date: "2022",
             description: "Developed ML-powered Tweetoxicity web app for behavioral analysis. Enabled real-time Twitter scrapper. Utilized a fine-tuned Transformer Model for Indonesian tweets. Achieved a high accuracy of 95%.",
-            url: "https://github.com/fathur-rs/Tweetoxicity-2.0",
+            url: "https://tweetoxicity-streamlit-lsasxuesda-et.a.run.app/",
           },
           {
             title: "Trxnslate — Handwritten Prescription Recognition",
