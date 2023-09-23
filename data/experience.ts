@@ -26,6 +26,12 @@ export const experienceData = [
         date: "August 2023 - Present",
         description: "Cloud Computing Learning Path",
       },
+      {
+        title: "Core Team - Academic Staff",
+        subTitle: "GDSC Universitas Airlangga",
+        date: "September 2023 - Present",
+        description: "Responsible for developing the curriculum 2023/2024. Sourcing resource persons for events, and guiding members",
+      },
     ],
   },
 ];
