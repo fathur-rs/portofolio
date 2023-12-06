@@ -21,14 +21,14 @@ export const projectData = [
             subTitle: "Web App",
             date: "2022",
             description: "Developed ML-powered Tweetoxicity web app for behavioral analysis. Enabled real-time Twitter scrapper. Utilized a fine-tuned Transformer Model for Indonesian tweets. Achieved a high accuracy of 95%.",
-            url: "https://tweetoxicity-streamlit-lsasxuesda-et.a.run.app/",
+            url: "https://github.com/fathur-rs/Tweetoxicity-2.0",
           },
           {
             title: "Trxnslate — Handwritten Prescription Recognition",
             subTitle: "Web App",
             date: "2023",
             description: "Built Trxnslate, a prescription recognition web app. Utilized Fine-Tuned Vision Transformer, achieving 98% accuracy. Enabled swift digital conversion of uploaded prescription images. Integrated Kubeflow for MLops pipeline. Deployed on GCP for cloud-based operation.",
-            url: "https://trxnslate-streamlit-lsasxuesda-et.a.run.app/",
+            url: "https://github.com/fathur-rs/TRxNSLATE-2.0",
           },
           {
             title: "nitter-harvest — Twitter Scrapper Modules",
