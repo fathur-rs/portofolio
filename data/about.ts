@@ -3,7 +3,7 @@ export const aboutData = {
   avatar: "https://github.com/fathur-rs.png",
   jobTitle: "Data Scientist",
   about:
-    "Hey there! I'm Fathur, An Undergraduate Student from Universitas Airlangga, Data Science Technology Program with a GPA of 3.70/4.00. Proficiency in data visualization, data wrangling, machine learning, Python, and Cloud Platforms. Experience performing end-to-end data science projects from Descriptive to Prescriptive Analytics at a Company level. Have excellent communication and team-working abilities.",
+    "I’m Fathur, a recent Data Science graduate with strong analytical and problem-solving skills. I have experience performing end-to-end data science projects, from descriptive to prescriptive analytics, on a company-wide scale. My strong communication and teamwork abilities complement my technical expertise, enabling effective collaboration and impactful results",
   contacts: [
     {
       label: "Email",

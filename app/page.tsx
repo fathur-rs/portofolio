@@ -25,7 +25,7 @@ const ContentSkill: React.FC<ContentSkills> = ({ title, items }) => {
           {items.map((item, index) => {
             return (
               <p key='index' className="border border-slate-600 px-6 py-2 text-slate-300 hover:text-slate-100 hover:border-slate-300 rounded-lg duration-300">
-                {item.skill}
+                {item.item}
               </p>
             );
           })}
@@ -87,9 +87,11 @@ const ContentCollege: React.FC<ContentColleges> = ({ title, items }) => {
                   {item.subTitle}
                 </p>
                 {item.description ? (
-                  <p className="text-slate-600 dark:text-gray-400 mt-2">
-                    {item.description}
-                  </p>
+                  <ul className="text-slate-600 dark:text-gray-400 mt-2 list-disc mx-3">
+                    {item.description.split('. ').map((word, index) => (
+                      <li className='my-1' key={index}>{word}</li>
+                    ))}
+                  </ul>
                 ) : null}
               </div>
             </div>
@@ -175,23 +177,23 @@ export default function Home() {
         </section>
         <section className="my-9 text-sm">
           <h3 className="mb-1 text-slate-900 dark:text-slate-100">About</h3>
-          <div className="text-slate-600 dark:text-slate-300">
+          <div className="text-slate-600 dark:text-slate-300 text-justify">
             <p>{aboutData.about}</p>
           </div>
         </section>
 
-        {skillData.map((content, index) => {
-          return <ContentSkill {...content} key={index} />;
-        })}
         {experienceData.map((content, index) => {
           return <ContentExperience {...content} key={index} />;
-        })}
-        {collegeData.map((content, index) => {
-          return <ContentCollege {...content} key={index} />;
         })}
         {projectData.map((content, index) => {
           return <ContentProject {...content} key={index} />;
         })}
+        {collegeData.map((content, index) => {
+          return <ContentCollege {...content} key={index} />;
+        })}
+        {skillData.map((content, index) => {
+                  return <ContentSkill {...content} key={index} />;
+                })}
         <section className="my-14 text-sm">
           <h3 className="mb-6 text-slate-900">Contact</h3>
           <div className="flex flex-col gap-6">
